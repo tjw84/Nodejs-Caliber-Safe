@@ -11,8 +11,9 @@ Video explaination of text and use:
 
 [Caliber Safe code explaination](https://youtu.be/IJsbvhs5KFU)
 
-[Expanation and examples in the DynomoDB database pt 1](https://youtu.be/h_RaPWB0oQw)
-[Expanation and examples in the DynomoDB database pt 2](
+[Expanation and examples in the DynomoDB database pt 1](https://youtu.be/Hqw1Q4He48Q)
+
+[Expanation and examples in the DynomoDB database pt 2](https://youtu.be/hgRvhrt2Gkc)
 
 # Development Environment
 
